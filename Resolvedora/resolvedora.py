@@ -34,7 +34,6 @@ class Circulo:
 print("Bienvenido a la calculadora del samuel\nEscribe la operación que quieras realizar")
 print("a: Resolver una ecuación de segundo grado")
 print("b: Obtener diámetro y área de un círculo a partir de su radio")
-print("c: Resolver una función")
 problema = input()
 
 if problema == "a":
