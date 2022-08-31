@@ -5,3 +5,5 @@ v1: Resolver ecuaciones de segundo grado y darte el área y diámetro de un cír
 v2: Aplicar teorema de Pitágoras
 
 v3: Agregada una función para calcular MRU. Funciones agrupadas en 2 modos, matemáticas y física
+
+4: Agregado cálculo para MRUA
